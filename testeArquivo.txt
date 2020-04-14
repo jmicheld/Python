@@ -1,3 +1,7 @@
-testeArquivoGIT
-Linha 2
-Linha 3
+testeArquivoGIT 1
+testeArquivoGIT 2
+testeArquivoGIT 3
+testeArquivoGIT 4
+
+
+Linha 7
