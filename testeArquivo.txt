@@ -1,3 +1,5 @@
+Versão 1.0
+
 testeArquivoGIT 1
 testeArquivoGIT 2
 testeArquivoGIT 3
