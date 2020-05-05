@@ -1,5 +1,5 @@
-# Teste Repo
+# Repositório de Projetos Python destinado a estudo da linguagem
 
-![GitHub Logo](./github.png)
+![Python Logo](./python.png)
 
-Este repositório está servindo para testes de commits, branches.
+Este repositório serve para disponibilizar pequenos projetos e testes que envolvem a linguagem Python.
