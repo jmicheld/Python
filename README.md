@@ -1,4 +1,4 @@
-# Repositório de Projetos Python destinado a estudo da linguagem
+# Projetos Python - Estudo da Linguagem
 
 ![Python Logo](./python.png)
 
