@@ -12,6 +12,7 @@ var_tipoVeiculo = 0; # 0 - Carro / 1 - Moto / 2 - Vans, Trator e Caminhões Pequ
 vr_continue = True;
 vr_eixoExtra = "N";
 vr_qtdEixoExtra = 0;
+vr_continuar = "";
 
 # Variáveis contadores de veículos
 vr_contCarro = 0;
@@ -62,3 +63,10 @@ while vr_continue == True:
 	else:
 		print("Informe um tipo de veículo válido.");
 		continue;
+
+	vr_continuar = input("Deseja continuar(S/N)?");
+
+	if vr_continuar.lower() != "s":
+		vr_continue = False;
+
+	
